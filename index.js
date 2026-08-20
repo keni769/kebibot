@@ -42,7 +42,7 @@ app.command("/keni-catfact", async ({ ack, respond }) => {
 app.command("/keni-coinflip", async ({ack, respond }) => {
   await ack();
   const result = Math.random() < 0.5 ? "Heads" : "Tails";
-  await respond(`The coin landed on ${result}!`);
+  await respond({  text: `The coin landed on ${result}!`});
   });
 
 app.command("/keni-dice", async ({ ack, respond }) => { 

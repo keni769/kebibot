@@ -51,11 +51,11 @@ app.command("/keni-dice", async ({ ack, respond }) => {
   await respond(`I rolled a ${roll}!`);
 });
 
-app.command("/keni-pick", async ({command, ack, respond }) => {
-  await ack();
+//app.command("/keni-pick", async ({command, ack, respond }) => {
+//  await ack();
   
 
-});
+//});
 
 (async () => {
   await app.start();

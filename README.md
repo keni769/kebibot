@@ -8,6 +8,7 @@ Curious? Try it out for yourself : https://app.slack.com/client/E09V59WQY1E/D0BR
 
 /keni-help for all available commands
 
-Credits: Chatgpt and youtube to learn about the Math. stuff
+Credits: Chatgpt and youtube to learn about the Math. commands
+
 
 

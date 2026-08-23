@@ -10,5 +10,7 @@ Curious? Try it out for yourself : https://app.slack.com/client/E09V59WQY1E/D0BR
 
 Credits: Chatgpt and youtube to learn about the Math. commands
 
+*Fixed the dm thing
+
 
 
